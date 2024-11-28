@@ -1,5 +1,5 @@
 # IaCGuides
 
-Infrastructure as Code Guides (Terraform and Bicep)
+Infrastructure as Code Guides (Terraform)
 
 - [AWS](./AWS/)
