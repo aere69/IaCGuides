@@ -2,6 +2,9 @@
 
 Basics of creating an EC2 instance.
 
+- [first_ec2.tf](./first_ec2.tf) Sample code to create a VM
+- [variables.tf](./variables.tf) Sample variables used in code.
+
 ## Commands
 
 1. **init**
@@ -16,3 +19,9 @@ Will deploy the plan to the provider.
 
 4. **destroy**
 Will delete all resources created according to the plan.
+
+To replace variables at runtime:
+
+```sh
+terraform <command> -var-file="filename.tfvars"
+```

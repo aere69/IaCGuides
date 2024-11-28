@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "eu-west-2"
-  access_key = "my-access_key"
-  secret_key = "my-secret_key"
+  access_key = var.ACCESS_KEY
+  secret_key = var.ACCESS_KEY_SECRET
 }
 
 resource "aws_instance" "first_ec2" {
