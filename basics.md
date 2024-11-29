@@ -12,6 +12,8 @@ If there are changes to the code, the plan will reflect the changes in relation 
 3. **apply**
 Will deploy the plan to the provider.
 
+Using the `-refresh-only` flag with terraform `apply` allows you to review the proposed changes before updating the **state file**, reducing the risk of accidentally removing resources from the state
+
 4. **destroy**
 Will delete all resources created according to the plan on the current folder.
 
@@ -20,6 +22,8 @@ To destroy specific resources target and the Resource Type followed by the Local
 ```sh
 terraform destory -target resource-type.local-resource-name
 ```
+
+If a resource is commented out in code (/* ... */) then terraform will try to destroy the resource if it still exists.
 
 ## Notes
 
