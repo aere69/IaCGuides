@@ -6,5 +6,6 @@ AWS code for Hashicorp Certified Terraform associate.
 
 | Number | Document |
 | ------ | ----------- |
-| 1   | [Network Secutiry Groups (Firewall rules).](./NetworkSecurityGroup/) |
+| 1 | [Network Secutiry Groups (Firewall rules).](./NetworkSecurityGroup/) |
 | 2 | [Elastic IP - Public IP](./ElasticIP/) |
+| 3 | [Attributes](./Attributes/) |
