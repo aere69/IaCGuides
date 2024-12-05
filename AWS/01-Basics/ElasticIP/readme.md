@@ -6,6 +6,8 @@
 
 ## Code
 
+[main.tf](./main.tf)
+
 ```tf
 resource "aws_eip" "publicIp" {
   domain   = "vpc" # (Optional)
