@@ -1,4 +1,4 @@
-# 01 - Basics (Read, Generate and Modify Configurations)
+# Basics (Read, Generate and Modify Configurations)
 
 AWS code for Hashicorp Certified Terraform associate.
 
@@ -9,3 +9,4 @@ AWS code for Hashicorp Certified Terraform associate.
 | 1 | [Network Secutiry Groups (Firewall rules).](./NetworkSecurityGroup/) |
 | 2 | [Elastic IP - Public IP](./ElasticIP/) |
 | 3 | [Attributes](./Attributes/) |
+| 4 | [Cross Reference Attributes](./Cross-Reference-Attributes/) |
