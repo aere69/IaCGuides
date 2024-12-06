@@ -12,3 +12,4 @@ AWS code for Hashicorp Certified Terraform associate.
 | 4 | [Cross Reference Attributes](./Cross-Reference-Attributes/) |
 | 5 | [String Interpolation](./string-interpolation.md) |
 | 6 | [Output Values](./Output-Values/) |
+| 7 | [Variables](./Variables/) |
