@@ -8,6 +8,10 @@ Variables are important in production environments to keep code clean and reusab
 
 > HashiCorp recommends creating a separate file named `*.tfvars` to define all variable values in a project.
 
+- If the file is `terraform.tfvars` Terraform will automaticatically take the values on this file.
+
+- If the name is different it has to be specified at runtime (see example below)
+
 ## Basics of Variables
 
 Terrafrom input variables are used to pass values from outside of the configuration.
