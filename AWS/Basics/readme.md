@@ -10,3 +10,5 @@ AWS code for Hashicorp Certified Terraform associate.
 | 2 | [Elastic IP - Public IP](./ElasticIP/) |
 | 3 | [Attributes](./Attributes/) |
 | 4 | [Cross Reference Attributes](./Cross-Reference-Attributes/) |
+| 5 | [String Interpolation](./string-interpolation.md) |
+| 6 | [Output Values](./Output-Values/) |
