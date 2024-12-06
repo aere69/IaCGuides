@@ -4,6 +4,9 @@
 
 **Repeated static values** in code can create more work.
 To avoid errors, repeated static values should be defined/stored in variables that can be set to a default value, loaded from file or manually changed at runtime.
+Variables are important in production environments to keep code clean and reusable.
+
+> HashiCorp recommends creating a separate file named `*.tfvars` to define all variable values in a project.
 
 ## Basics of Variables
 
