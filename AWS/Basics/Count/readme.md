@@ -36,3 +36,5 @@ resource "aws_iam_user" "that" {
   count = 5
 }
 ```
+
+## [Sample Code](./main.tf)
