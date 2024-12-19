@@ -15,3 +15,4 @@ AWS code for Hashicorp Certified Terraform associate.
 | 7 | [Variables](./Variables/) |
 | 8 | [Folder Structure](./folder-structure.md) |
 | 9 | [Data Types](./data-types.md) |
+| 10 | [Count - Meta argument](./Count/) |
