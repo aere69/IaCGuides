@@ -14,3 +14,5 @@ If condition is false the the result is false_val.
 - Equal to : **==**
 - Not Equal to : **!=**
 - And : **&&**
+
+## [Sample Code](./main.tf)
